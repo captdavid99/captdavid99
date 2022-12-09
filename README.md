@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @captdavid99
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning python
